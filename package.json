@@ -1,0 +1,21 @@
+{
+  "name": "lh",
+  "version": "1.0.0",
+  "description": "LyteHacks is a short hackathon thrown monthly in Tallahassee by Technole. Students come together to work on various projects which may be of their own creation or to held local businesses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryantucker0/lh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryantucker0/lh/issues"
+  },
+  "homepage": "https://github.com/ryantucker0/lh"
+
+  
+}
