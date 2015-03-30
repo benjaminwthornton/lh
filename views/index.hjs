@@ -8,18 +8,24 @@
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
     <link rel='stylesheet' href='/stylesheets/style.css' />
 
-    <nav class="navbar navbar-default navbar-fixed-top">
-      <p class="navbar-text" <li=""><a href="/">Top</a></p>
-  </nav>
+    <nav class="navbar navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">
+            <img alt="Brand" src="images/logo.png" height=25px; width=25px;>
+          </a>
+        </div>
+      </div>
+    </nav>
 
   </head>
   <body>
 
-      <div class="container-fluid jumbotron textgray">
-        <div class="text-center">
-  <h1>{{ title }}</h1>
-</div>
-    </div>
+    <div class="header">
+
+        </div>
+
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
