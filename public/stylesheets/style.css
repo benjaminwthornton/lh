@@ -29,16 +29,18 @@ a:focus{
 }
 
 .leftcenter{
+  /*
   margin-left:15%;
   margin-right:15%;
   margin-top:100px;
+  */
 }
 
 .title{
   font-weight:bold;
   font-size:56px;
   line-height:1.5em;
-  padding-top:25px;
+  padding-top:40px;
   color:#A01607;
 }
 

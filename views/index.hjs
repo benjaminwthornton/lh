@@ -21,6 +21,7 @@
   </head>
   <body>
 
+
     <div class="header" id="top">
       <div class="header-overlay"></div>
       <div class="header-text">
@@ -78,6 +79,7 @@
         </div>
       </div>
     </div>
+
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
