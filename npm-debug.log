@@ -1,35 +1,26 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'start' ]
-2 info using npm@2.7.0
-3 info using node@v0.13.0-pre
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'start' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
 4 verbose run-script [ 'prestart', 'start', 'poststart' ]
 5 info prestart LyteHacks@0.0.1
 6 info start LyteHacks@0.0.1
 7 verbose unsafe-perm in lifecycle true
 8 info LyteHacks@0.0.1 Failed to exec start script
-9 verbose stack Error: LyteHacks@0.0.1 start: `nodejs /views/index.js`
-9 verbose stack Exit status 8
-9 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:213:16)
-9 verbose stack     at EventEmitter.emit (events.js:112:17)
-9 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:14:12)
-9 verbose stack     at ChildProcess.emit (events.js:112:17)
-9 verbose stack     at maybeClose (child_process.js:1010:16)
-9 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1082:5)
-10 verbose pkgid LyteHacks@0.0.1
-11 verbose cwd /home/ryan/Desktop/lh
-12 error Linux 3.16.0-31-generic
-13 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
-14 error node v0.13.0-pre
-15 error npm  v2.7.0
+9 error LyteHacks@0.0.1 start: `nodejs ./bin/www`
+9 error Exit status 127
+10 error Failed at the LyteHacks@0.0.1 start script.
+10 error This is most likely a problem with the LyteHacks package,
+10 error not with npm itself.
+10 error Tell the author that this fails on your system:
+10 error     nodejs ./bin/www
+10 error You can get their info via:
+10 error     npm owner ls LyteHacks
+10 error There is likely additional logging output above.
+11 error System Darwin 14.1.0
+12 error command "node" "/usr/local/bin/npm" "start"
+13 error cwd /Users/ryantucker/Desktop/lh
+14 error node -v v0.10.26
+15 error npm -v 1.4.3
 16 error code ELIFECYCLE
-17 error LyteHacks@0.0.1 start: `nodejs /views/index.js`
-17 error Exit status 8
-18 error Failed at the LyteHacks@0.0.1 start script 'nodejs /views/index.js'.
-18 error This is most likely a problem with the LyteHacks package,
-18 error not with npm itself.
-18 error Tell the author that this fails on your system:
-18 error     nodejs /views/index.js
-18 error You can get their info via:
-18 error     npm owner ls LyteHacks
-18 error There is likely additional logging output above.
-19 verbose exit [ 1, true ]
+17 verbose exit [ 1, true ]

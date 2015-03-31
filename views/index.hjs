@@ -12,7 +12,7 @@
       <div class="container-fluid">
         <div class="navbar-header">
           <a class="navbar-brand" href="/">
-            <img alt="Brand" src="images/logo.png" height=25px; width=25px;>
+            <img alt="Brand" src="images/logo.png" height=45px;>
           </a>
         </div>
       </div>
@@ -21,8 +21,11 @@
   </head>
   <body>
 
-    <div class="header">
-
+    <div class="header header-text">
+      <div class="header-overlay"></div>
+      <div class="header-text">
+          <p>Test</p>
+      </div>
         </div>
 
 
