@@ -11,7 +11,7 @@
     <nav class="navbar navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a class="navbar-brand" href="/">
+          <a class="navbar-brand slowscroll" href="#top">
             <img alt="Brand" src="images/logo.png" height=45px;>
           </a>
         </div>
@@ -21,23 +21,63 @@
   </head>
   <body>
 
-    <div class="header">
+    <div class="header" id="top">
       <div class="header-overlay"></div>
       <div class="header-text">
         <br>
         <div class="container jumbotron">
             <img src="images/header.png" alt="header" width=150px; height=193px; align = "center" />
-            <h1 align="center">Hack the Lyte away</h1>
+            <h1 align="center">Hack the Lyte Away</h1>
             <a href="#more"><button type="button" class="btn btn-default smoothscroll">Learn More</button></a>
+            <a href="#partner"><button type="button" class="btn btn-default smoothscroll">Partnership</button></a>
           </div>
         </div>
 
       </div>
     </div>
-    <div class="container" id="more">
-      <h1>LyteHacks</h1>
+    <div class="container leftcenter" id="more">
+      <br><br>
+      <h1 class="title">What is LyteHacks?</h1>
+      <p>
+        LyteHacks is a product of TechNole, a Recognized Student Organization at Florida State University.
+        Our focus is to connect local businesses with TechNole members in a hackathon-type environment in order to provide solutions to benefit the business.
+        These “mini-hackathons” will be done throughout the year and incorporate tasks for the TechNole members to complete in 10-hours or less.
+        TechNole members will benefit from these events by learning new skills and will also be given rewards for their work.
+        These factors combined result in timely, thought out, and focused solutions to fit the needs of the partnered business.
+      </p>
+      <h1 class="title">Our Mission</h1>
+      <p>
+        The Mission of Lytehacks is to provide a meaningful partnership between young, talented developers and local Tallahassee companies.
+        Through giving opportunity and incentive to the developers, there will be a great return in the types of solutions and products that will be created during a LyteHacks event for businesses.
+        Partnering local businesses with LyteHacks developers allows for students to give back to the community while also putting their experience to work and gaining new knowledge.
+      </p>
+      <h1 class="title">What is a Hackathon?</h1>
+      <p>
+        An event that brings in software and hardware engineers, designers, and other inspired students to create team projects, or hacks, from scratch.
+        The projects created through this type of collaboration are truly inspiring and some go on to be very successful.
+        Student hackathons have exploded throughout the US and a Hacker Culture has formed.
+        The sense of community is unrivaled from any other kind of event in the nation and it has been formed from the common goal to hack.
+        To be a hacker comes with an attitude of building to learn, working together, and the desire to create.
+        To see how inspiring this community really is <a href="https://medium.com/search?q=hackathons" target="_blank">look at some blog posts</a>, written by the community.
+      </p>
+      <h1 class="title">Who is <a href="http://www.technolegy.org/" target="_blank">TechNole</a>?</h1>
+      We are a Recognized Student Organization from Florida State University that consist of Undergraduate Students that have an interest in programming, development, and design.
+      We travel and compete in hackathons all over the nation as well as plan and host our own hackathon, <a href="http://www.hackfsu.com/" target="_blank">HackFSU</a>, annually at Florida State.
+      Our motto is “Conquering Technology Together” and we consist of a very talented, motivated, and knowledgeable group of students passionate about technology.
+      <h1 class="title" id="partner">Partner With Us</h1>
+      <p>
+        If you would like to be a LyteHacks Partner, contact us at <a href="mailto:partner@lytehacks.com">partner@lytehacks.com</a><br>
+        Please let us know what your company does and how we may help.
+      </p>
     </div>
 
+    <div class="footer">
+      <div class="footercontainer" align="center">
+        <div class="footertext">
+        <a href="http://www.twitter.com/lytehacks" target="_blank"><img src="images/twitter-64-orange.png" alt="Twitter" /></a> LyteHacks
+        </div>
+      </div>
+    </div>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
