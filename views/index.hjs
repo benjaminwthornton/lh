@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ title }}</title>
+    <title>LyteHacks</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,12 +21,22 @@
   </head>
   <body>
 
-    <div class="header header-text">
+    <div class="header">
       <div class="header-overlay"></div>
       <div class="header-text">
-          <p>Test</p>
-      </div>
+        <br>
+        <div class="container jumbotron">
+            <img src="images/header.png" alt="header" width=150px; height=193px; align = "center" />
+            <h1 align="center">Hack the Lyte away</h1>
+            <a href="#more"><button type="button" class="btn btn-default smoothscroll">Learn More</button></a>
+          </div>
         </div>
+
+      </div>
+    </div>
+    <div class="container" id="more">
+      <h1>LyteHacks</h1>
+    </div>
 
 
 
@@ -34,5 +44,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="javascripts/bootstrap.min.js"></script>
+<script type="text/javascript" src="javascripts/smoothscroll.js"></script>
   </body>
 </html>

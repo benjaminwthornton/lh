@@ -13,6 +13,29 @@ body {
   padding-top:2.5px;
 }
 
+.btn-default{
+  color: white;
+  background-color: #E74C3C;
+  border-radius: 5px;
+  font-size: 30px;
+  text-decoration: none;
+  border: 0;
+}
+
+.btn-default:hover{
+  background-color:#E95E50;
+  color:white;
+}
+
+.btn-default:focus{
+  background-color:#E74C3C;
+  color:white;
+}
+
+.jumbotron {
+  background-color:transparent;
+}
+
 a {
   color:#515151;
 }
@@ -20,8 +43,6 @@ a {
 .textgray {
   color: #515151;
 }
-
-
 
 .header{
   vertical-align: middle;
@@ -48,5 +69,5 @@ a {
   width: 100%;
   height: 100%;
   z-index: 1004;
-  background-color: rgba(25,0,0,0.4);
+  background-color: rgba(25,0,0,0.6);
 }
