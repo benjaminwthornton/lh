@@ -70,12 +70,19 @@
         If you would like to be a LyteHacks Partner, contact us at <a href="mailto:partner@lytehacks.com">partner@lytehacks.com</a><br>
         Please let us know what your company does and how we may help.
       </p>
+    <h1 class="title" id="partner">Any Questions?</h1>
+      <p>
+        If you would like any more information or want to find a way to get involved please feel free
+        to contact us at <a href="mailto:info@lytehacks.com">info@lytehacks.com</a>!
+      </p>
+
     </div>
 
     <div class="footer">
       <div class="footercontainer" align="center">
         <div class="footertext">
-        <a href="http://www.twitter.com/lytehacks" target="_blank"><img src="images/twitter-64-orange.png" alt="Twitter" /></a> LyteHacks
+        <!--<a href="http://www.twitter.com/lytehacks" target="_blank"><img src="images/twitter-64-orange.png" alt="Twitter" /></a>-->
+         LyteHacks
         </div>
       </div>
     </div>
