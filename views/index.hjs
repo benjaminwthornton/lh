@@ -28,8 +28,8 @@
         <br>
         <div class="container jumbotron">
             <img src="images/header.png" alt="header" width=150px; height=193px; align = "center" />
-            <h1 align="center">Hack the Lyte Away</h1>
-            <a href="#more"><button type="button" class="btn btn-default smoothscroll">Learn More</button></a>
+            <h1 align="center">Bringing Hackers and Local Businesses Together</h1>
+            <a href="/schedule"><button type="button" class="btn btn-default">April Schedule</button></a>
             <a href="#partner"><button type="button" class="btn btn-default smoothscroll">Partnership</button></a>
           </div>
         </div>
