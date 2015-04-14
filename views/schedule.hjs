@@ -19,18 +19,8 @@
     </nav>
   </head>
   <body>
-    <div class="container">
-      <h1 class="title">April 18 Schedule</h1>
-      <h2>
-        09:45    |   Check In and Donuts!<br>
-        10:00    |   Opening Ceremony, Team Building<br>
-        12:30    |   Lunch<br>
-        14:00    |   Ping Pong Tournament<br>
-        15:00    |   Progress Report<br>
-        17:00    |   Dinner<br>
-        19:30    |   Presentations and Closing Ceremony
-
-      </p>
+    <div class="container jumbotron">
+      <img alt="Schedule" src="images/sched.png" height=450px;>
     </div>
 
 
