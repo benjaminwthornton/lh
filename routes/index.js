@@ -6,4 +6,8 @@ router.get('/', function(req, res) {
   res.render('index', { title: 'LyteHacks' });
 });
 
+router.get('/schedule', function(req, res) {
+  res.render('schedule');
+});
+
 module.exports = router;
