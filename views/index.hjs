@@ -27,7 +27,7 @@
       <div class="header-text">
         <br>
         <div class="container jumbotron">
-            <img src="images/header.png" alt="header" width=150px; height=193px; align = "center" />
+            <img src="images/header.png" alt="header" width=200px; height=257px; align = "center" />
             <h1 align="center">Bringing Hackers and Local Businesses Together</h1>
             <a href="#schedule"><button type="button" class="btn btn-default smoothscroll">Schedule</button></a>
             <a href="/sponsor"><button type="button" class="btn btn-default">Sponsor</button></a>
