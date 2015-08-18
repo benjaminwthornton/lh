@@ -10,4 +10,8 @@ router.get('/schedule', function(req, res) {
   res.render('schedule');
 });
 
+router.get('/sponsor', function(req, res) {
+  res.render('sponsor');
+});
+
 module.exports = router;

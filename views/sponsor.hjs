@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LH | Sponsor</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+
+    <nav class="navbar navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">
+            <img alt="Brand" src="images/logo.png" height=45px;>
+          </a>
+        </div>
+      </div>
+    </nav>
+  </head>
+  <body>
+
+<div class="container leftcenter">
+
+    <h1 class="title">Sponsor Information</h1>
+    <p>
+    We are so glad that you are interested in supporting LyteHacks! There are many ways to get involved and join a great group of hackers and other businesses in creating a great environment for innovation. Now is the perfect time to get involved with LyteHacks and here are some reasons why:
+    </p>
+    <h1>Perk 1</h1>
+    <p>
+      The students that are involved with hackathons are the most driven people you will meet and they will put forth great amounts of effort to solve any problem they come across. By connecting with these students at a LyteHacks event you will be able to witness first-hand what they can create in just 10 hours.
+    </br></br>
+      By sponsoring and attending each LyteHacks event you will have access to a great pool of potential interns or employees.  The end products that the hackers create in 10 hours are remarkable and if their hack solves a problem that you are having then you can work directly with the hacker to see if/how you can utilize their creation.
+    </p>
+    <h1>Perk 2</h1>
+    <p>
+      By choosing to sponsor and be a part of this great event all throughout the Fall your company will get great brand recognition and exposure as being a part of something truly innovative. With our hackers you will be able interact with a group of like-minded people that love technology and using it to create great products.
+    </br></br>
+      Does your company have an API or other service?  LyteHacks is the perfect way to get direct feedback and interact with users of your service! By opening up an API or other tool that you company can provide, you will be able to get in person feedback from our hackers and help them create a great project or even be surprised with how they use it.
+    </br></br>
+      These are just two of the biggest benefits you can get out of sponsoring LyteHacks and as the season progresses you will find the countless other perks.
+    </br></br></br>
+    <b>If you would like to be a LyteHacks Sponsor or if you have any questions, contact us at <a href="mailto:sponsor@lytehacks.com">sponsor@lytehacks.com</a><br></b>
+
+    </p>
+
+</div>
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="javascripts/bootstrap.min.js"></script>
+  </body>
+</html>
