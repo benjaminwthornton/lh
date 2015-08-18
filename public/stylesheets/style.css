@@ -101,14 +101,13 @@ a:focus{
 }
 
 .footer{
-    padding-top:500px;
+    padding-top:200px;
 }
 
 .footercontainer{
   background-color: #222222;
 width: 100%;
-margin-top: 100px;
-height: 150px;
+height: 100px;
 /* padding: 70px 275px 0px 275px; */
 padding-top: 2em;
 }
@@ -117,5 +116,5 @@ padding-top: 2em;
   color: #E74C3C;
   position:relative;
   width:100%;
-  margin-top:20px;
+
 }
