@@ -14,4 +14,8 @@ router.get('/sponsor', function(req, res) {
   res.render('sponsor');
 });
 
+router.get('/1_1', function(req, res) {
+  res.render('1_1');
+});
+
 module.exports = router;
