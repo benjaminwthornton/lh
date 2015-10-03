@@ -18,4 +18,8 @@ router.get('/1_1', function(req, res) {
   res.render('1_1');
 });
 
+router.get('/1_2', function(req, res) {
+  res.render('1_2');
+});
+
 module.exports = router;
